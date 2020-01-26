@@ -8,7 +8,7 @@ this repository is contains a code of design patterns (GOF) implementation.<br>
 ## Sreenshot
 
 <p id="img_cont">
-	<img src="/Memento_design_pattrens.JPG" width = "200" height= "350" hspace=40>
+	<img src="/Memento_design_pattrens.JPG" width = "350" height= "350" hspace=40>
 </p>
 
 If you have any queries or suggestions you can mail me: f158185@nu.edu.pk
