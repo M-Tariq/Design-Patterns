@@ -10,7 +10,7 @@ this repository is contains a code of design patterns (GOF) implementation.<br>
 <p id="img_cont">
 	<img src="/Memento_design_pattrens.JPG" width = "350" height= "350" hspace=40>
 </p>
-
+<li> <b>Sibgelton Design Pattern </b>– go to branch singleton_design_pattern.
 If you have any queries or suggestions you can mail me: f158185@nu.edu.pk
 
 You are welcome to suggest any changes, just send a pull request.
